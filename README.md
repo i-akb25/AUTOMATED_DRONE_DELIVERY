@@ -179,6 +179,12 @@ The **drone_automation.py** script manages the following:
 
 ---
 
+## Image 🖼️
+![WhatsApp Image 2024-12-28 at 00 00 24_c54b8baf](https://github.com/user-attachments/assets/14518935-4e77-4e24-95bb-af0546308d8b)
+
+
+---
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
