@@ -140,7 +140,7 @@ dtoverlay=disable-bt \`\`\`
 
 1. Write and execute the Python script for drone automation:
    ```bash
-   python3 delivery_drone_yt.py --connect /dev/ttyAMA0
+   python3 drone_automation.py --connect /dev/ttyAMA0
    ```
 
 ---
