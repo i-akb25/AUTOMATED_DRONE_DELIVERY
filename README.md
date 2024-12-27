@@ -126,9 +126,9 @@ sudo reboot
 
    ```
    enable_uart=1
+   dtoverlay=disable-bt
    ```
 
-dtoverlay=disable-bt \`\`\`
 
 4. Connect the Raspberry Pi to the Pixhawk using wires.
 5. Test the connection:
