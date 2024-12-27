@@ -147,7 +147,7 @@ dtoverlay=disable-bt \`\`\`
 
 ## Python Script Overview
 
-The **drone\_automation.py** script manages the following:
+The **drone_automation.py** script manages the following:
 
 - Establishes communication between Raspberry Pi and Pixhawk.
 - Integrates facial recognition to detect the target.
