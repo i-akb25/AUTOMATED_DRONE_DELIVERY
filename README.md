@@ -1,5 +1,7 @@
 # Automated Drone Delivery System
 
+![GitHub repo size](https://img.shields.io/github/repo-size/i-akb25/AUTOMATRED_DRONE_DELIVERY?color=ff69b4&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/i-akb25/AUTOMATRED_DRONE_DELIVERY?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/i-akb25/AUTOMATRED_DRONE_DELIVERY?color=ff69b4&style=flat-square) 
+
 ## Project Overview
 
 The Automated Drone Delivery System is designed to autonomously deliver parcels to a target location and return to the launch point. The drone employs facial recognition to identify the target person, ensuring secure and efficient delivery. Once the target person's face is detected within the camera's field of view, the drone automatically drops the parcel using a servo motor and then returns to the launch point.
