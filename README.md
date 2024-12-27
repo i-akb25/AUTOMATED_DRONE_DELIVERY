@@ -1,6 +1,6 @@
 # Automated Drone Delivery System
 
-![GitHub repo size](https://img.shields.io/github/repo-size/i-akb25/AUTOMATRED_DRONE_DELIVERY?color=ff69b4&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/i-akb25/AUTOMATRED_DRONE_DELIVERY?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/i-akb25/AUTOMATRED_DRONE_DELIVERY?color=ff69b4&style=flat-square) 
+![GitHub repo size](https://img.shields.io/github/repo-size/i-akb25/AUTOMATED_DRONE_DELIVERY?color=ff69b4&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/i-akb25/AUTOMATED_DRONE_DELIVERY?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/i-akb25/AUTOMATED_DRONE_DELIVERY?color=ff69b4&style=flat-square) 
 
 ## Project Overview
 
