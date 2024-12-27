@@ -14,7 +14,7 @@ The Automated Drone Delivery System is designed to autonomously deliver parcels 
 ## Components
 
 1. **Pixhawk Flight Controller Kit**
-2. **Quadcopter Frame S550**
+2. **Quadcopter Frame S500**
 3. **DYS BLDC Motor 1000KV**
 4. **ESC 30A**
 5. **Propeller (Glass Fiber)**
